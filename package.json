@@ -4,23 +4,22 @@
     "description": "A classic Tetris game implemented using HTML, CSS, and JavaScript.",
     "main": "index.js",
     "scripts": {
-      "start": "live-server"
+        "start": "live-server"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Alan47-crypto/alantetris-game.git"
+        "type": "git",
+        "url": "git+https://github.com/Alan47-crypto/alantetris-game.git"
     },
     "keywords": [
-      "tetris",
-      "game",
-      "html",
-      "css",
-      "javascript"
+        "tetris",
+        "game",
+        "html",
+        "css",
+        "javascript"
     ],
     "author": "Alan47",
     "license": "MIT",
     "dependencies": {
-      "live-server": "^1.2.1"
+        "live-server": "^1.1.0"
     }
-  }
-  
+}
